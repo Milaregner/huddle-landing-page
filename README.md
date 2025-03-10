@@ -1,4 +1,4 @@
-# 📌 HUddle Landing Page Responsiva
+# 📌 Huddle Landing Page Responsiva
 
 Este é um projeto do Frontend Mentor **Huddle landing page with a single introductory section**, desenvolvido com **HTML e CSS**. O design foi pensado para ser moderno, elegante e acessível, garantindo uma boa experiência em diferentes dispositivos.
 
