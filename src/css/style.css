@@ -1,0 +1,82 @@
+:root {
+    --primary-color: hsl(257, 40%, 49%);
+    --hover-color: hsl(300, 69%, 71%);
+    --white: #fff;
+}
+
+
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: 1rem;
+    font-family: "Poppins", serif;
+}
+
+
+
+.intro section {
+    display: flex;
+    gap: 5rem;
+    color: #fff;
+    font-family: "Open Sans",serif;
+}
+
+.intro .intro-image {
+    max-width: 100%;
+    height: auto;
+}
+
+.intro section div{
+    font-family: "Open Sans", serif;
+    font-weight: 400;
+}
+
+.intro section div:last-child {
+    margin-top: 3rem;
+}
+
+.intro section div:last-child h1 {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+    width: 80%;
+}
+
+.intro section div:last-child p {
+    font-size: 1.4rem;
+    margin-bottom: 3rem;
+}
+
+.intro section div:last-child a {
+    font-size: 20px;
+    padding: 15px 70px;
+    background-color: var(--white);
+    color: var(--primary-color);
+    border-radius: 30px;
+    transition: 0.3s ease-in-out;
+}
+
+.intro section div:last-child a:hover{
+    background-color:var(--hover-color);
+    color: var(--white);
+} 
+
+.footer ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 1rem;
+}
+
+.footer ul li a {
+    color: var(--white);
+    border: 1px solid var(--white);
+    border-radius: 100%;
+    padding: 1rem;
+    font-size: 20px;
+    transition: 0.3s ease-in-out;
+}
+
+.footer ul li a:hover{
+    border: 1px solid var(--hover-color);
+    color: var(--hover-color);
+}
