@@ -1,6 +1,6 @@
-# 📌 Landing Page Responsiva
+# 📌 HUddle Landing Page Responsiva
 
-Este é um projeto de **Landing Page responsiva**, desenvolvido com **HTML e CSS**. O design foi pensado para ser moderno, elegante e acessível, garantindo uma boa experiência em diferentes dispositivos.
+Este é um projeto do Frontend Mentor **Huddle landing page with a single introductory section**, desenvolvido com **HTML e CSS**. O design foi pensado para ser moderno, elegante e acessível, garantindo uma boa experiência em diferentes dispositivos.
 
 ## ✨ Tecnologias Utilizadas
 
@@ -9,37 +9,33 @@ Este é um projeto de **Landing Page responsiva**, desenvolvido com **HTML e CSS
 
 ## 📌 Funcionalidades
 
-✔️ Design responsivo para diversos tamanhos de tela  
-✔️ Layout moderno com **degradê de cores**  
+✔️ Design responsivo para diversos tamanhos de tela   
 ✔️ Acessibilidade aprimorada  
 
 
 ## 📷 Preview
 
 ### 📱 Versão Mobile
-![Versão Mobile](caminho/para/imagem-mobile.png)
+![Versão Mobile](./src/assets/huddle-mobile.jpeg)
 
 ### 💻 Versão Web
-![Versão Web](caminho/para/imagem-web.png)
+![Versão Web](./src/assets/huddle-web.jpeg)
 
 ## 🚀 Como executar o projeto
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/Milaregner/huddle-landing-page.git
    ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd nome-do-projeto
-   ```
-3. Abra o arquivo `index.html` no navegador.
 
-## 📌 Melhorias Futuras
+2. Abra o arquivo `index.html` no navegador.
 
-- Melhorar a acessibilidade com ARIA
-- Adicionar efeitos animados para melhor experiência do usuário
-- Implementar versão com **React** ou outro framework
 
-## 📄 Licença
+## 💜 Criado por
 
-Este projeto está sob a licença MIT - sinta-se à vontade para contribuir! 😊
+Feito com 💜 por [@Milaregner](https://github.com/Milaregner).  
+Se gostou do projeto, deixe uma ⭐ no repositório!
+
+---
+
+💡 *Sugestões e melhorias são sempre bem-vindas!*
