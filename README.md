@@ -2,6 +2,10 @@
 
 Este é um projeto do Frontend Mentor **Huddle landing page with a single introductory section**, desenvolvido com **HTML e CSS**. O design foi pensado para ser moderno, elegante e acessível, garantindo uma boa experiência em diferentes dispositivos.
 
+## 🚀 Demonstração
+
+🔗 **Acesse o projeto aqui**: [Acordeon Lorem Responsivo](https://milaregner.github.io/huddle-landing-page/)
+
 ## ✨ Tecnologias Utilizadas
 
 - **HTML5** → Estrutura semântica da página
